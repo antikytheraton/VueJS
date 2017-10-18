@@ -1,1 +1,1 @@
-# VueJS
+# Curso Platzi de VueJS
